@@ -43,13 +43,16 @@
   ###### `textSize_articleMain_title_Medium` `margin_artilceMain_background_72dp` `width_all_articleDetail`
 
 
-### 4. Constants 
-   ###### `public interface Constants {`
-   ###### `interface BUNDLE {}  // All constants related to Intent operations.`
-   ###### `interface PARAMS {}  // All constants related to Server Parameters.`
-   ###### `interface PREFS {}   // All constants related to Preferences.`
-   ###### `interface URL {}     // All cibstants related to urls.`
-   ###### `}` 
+### 4. Constants
+ 
+ ```javascript
+   public interface Constants {
+   interface BUNDLE {}  // All constants related to Intent operations.
+   interface PARAMS {}  // All constants related to Server Parameters.
+   interface PREFS {}   // All constants related to Preferences.
+   interface URL {}     // All cibstants related to urls.
+   } 
+   ```
 
 
 
