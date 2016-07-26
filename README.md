@@ -2,8 +2,8 @@
 ##### This file contains some example of coding guidelines for android/java
 
 
-### Version (1.0)
-first verison 
+### Version (1.1)
+
 
 ### 1. Package Name 
 ##### `com.client.Appname`
@@ -42,6 +42,14 @@ first verison
   ###### Example : 
   ###### `textSize_articleMain_title_Medium` `margin_artilceMain_background_72dp` `width_all_articleDetail`
 
+
+### 4. Constants 
+     `public interface Constants {
+       interface BUNDLE {}  // All constants related to Intent operations.
+       interface PARAMS {}  // All constants related to Server Parameters.
+       interface PREFS {}   // All constants related to Preferences.
+       interface URL {}     // All cibstants related to urls.
+}` 
 
 
 
