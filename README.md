@@ -44,12 +44,12 @@
 
 
 ### 4. Constants 
-     `public interface Constants {
-       interface BUNDLE {}  // All constants related to Intent operations.
-       interface PARAMS {}  // All constants related to Server Parameters.
-       interface PREFS {}   // All constants related to Preferences.
-       interface URL {}     // All cibstants related to urls.
-       }` 
+   ###### `public interface Constants {`
+   ###### `interface BUNDLE {}  // All constants related to Intent operations.`
+   ###### `interface PARAMS {}  // All constants related to Server Parameters.`
+   ###### `interface PREFS {}   // All constants related to Preferences.`
+   ###### `interface URL {}     // All cibstants related to urls.`
+   ###### `}` 
 
 
 
