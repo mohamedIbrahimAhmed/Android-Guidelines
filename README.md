@@ -49,7 +49,7 @@
        interface PARAMS {}  // All constants related to Server Parameters.
        interface PREFS {}   // All constants related to Preferences.
        interface URL {}     // All cibstants related to urls.
-}` 
+       }` 
 
 
 
