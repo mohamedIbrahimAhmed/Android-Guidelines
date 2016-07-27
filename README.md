@@ -2,7 +2,7 @@
 ##### This file contains some example of coding guidelines for android/java
 
 
-### Version (1.1)
+### Version (1.2)
 
 
 ### 1. Package Name 
@@ -44,10 +44,10 @@
 
 
 ### 4. Constants
-* ####   we follow `<WHERE_DESCRIPTION>`
+* #### we follow `<WHERE_DESCRIPTION>`
 * ###### Example : 
 
-     ###### `PARAMS.LOGIN_EMAIL` `BUNDLES.INTRO_FRAGMENT_TEXT`
+     `PARAMS.LOGIN_EMAIL` `BUNDLES.INTRO_FRAGMENT_TEXT`
  
  #### 
  ####
