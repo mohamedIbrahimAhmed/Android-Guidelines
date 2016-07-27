@@ -44,7 +44,13 @@
 
 
 ### 4. Constants
+* ####   we follow `<WHERE_DESCRIPTION>`
+* ###### Example : 
+
+     ###### `PARAMS.LOGIN_EMAIL` `BUNDLES.INTRO_FRAGMENT_TEXT`
  
+ #### 
+ ####
  ```javascript
    public interface Constants {
    interface BUNDLE {}  // All constants related to Intent operations.
