@@ -61,16 +61,13 @@
    ```
    
 ### 5. Views Variable
-* ###### we follow `<DESCRIPTION_WHAT>`
-* ###### Example : 
-#### 
- ####
- ```javascript
+*  we follow `<DESCRIPTION_WHAT>`
+*  Example : 
+
+```javascript
     EditText phoneNumberEditText;
     ImageView profileImageView;
     EditText emailEditText;
-   ```
- 
-
+```
 
 
