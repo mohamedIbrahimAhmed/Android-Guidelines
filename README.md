@@ -2,7 +2,7 @@
 ##### This file contains some example of coding guidelines for android/java
 
 
-### Version (1.2)
+### Version (1.3)
 
 
 ### 1. Package Name 
@@ -59,6 +59,18 @@
    interface URL {}     // All cibstants related to urls.
    } 
    ```
+   
+### 5. Views Variable
+* ###### we follow `<DESCRIPTION_WHAT>`
+* ###### Example : 
+#### 
+ ####
+ ```javascript
+    EditText phoneNumberEditText;
+    ImageView profileImageView;
+    EditText emailEditText;
+   ```
+ 
 
 
 
