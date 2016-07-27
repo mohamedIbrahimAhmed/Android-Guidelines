@@ -44,7 +44,7 @@
 
 
 ### 4. Constants
-* #### we follow `<WHERE_DESCRIPTION>`
+* ###### we follow `<WHERE_DESCRIPTION>`
 * ###### Example : 
 
      `PARAMS.LOGIN_EMAIL` `BUNDLES.INTRO_FRAGMENT_TEXT`
