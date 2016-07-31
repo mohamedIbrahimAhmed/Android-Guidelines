@@ -2,7 +2,7 @@
 ##### This file contains some example of coding guidelines for android/java
 
 
-### Version (1.3)
+### Version (1.4)
 
 
 ### 1. Package Name 
@@ -42,6 +42,10 @@
   ###### Example : 
   ###### `textSize_articleMain_title_Medium` `margin_artilceMain_background_72dp` `width_all_articleDetail`
 
+* ### _Colors.xml_
+  ###### we follow `<WHERE_DESCRIPTION>`
+  ###### Example : 
+  ###### `main_background` `singup_textcolor` `login_button_background_color`
 
 ### 4. Constants
 * ###### we follow `<WHERE_DESCRIPTION>`
